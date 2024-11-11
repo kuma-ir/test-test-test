@@ -111,3 +111,4 @@ If a `png`/`webp` image is submitted, ensure a `svg` has been generated. If not,
 b1
 b2
 b3
+b4
